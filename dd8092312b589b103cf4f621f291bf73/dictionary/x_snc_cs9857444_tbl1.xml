@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="e3c156f12b589b103cf4f621f291bf6a" label="tbl1" max_length="40" name="x_snc_cs9857444_tbl1" type="collection"/>
+    <element db_object_id="e3c156f12b589b103cf4f621f291bf6a" label="tbl1" max_length="40" name="x_snc_cs9857444_tbl1" type="collection">
+        <element label="Col 1105 1" max_length="10" name="col_1105_1" type="string"/>
+        <element label="Col 1105 2" max_length="10" name="col_1105_2" type="string"/>
+        <element label="Test column" max_length="10" name="test_column" type="string"/>
+    </element>
 </database>

@@ -4,7 +4,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-11-02 16:51:43</sys_created_on>
         <sys_id>0a331eb52b589b103cf4f621f291bfc3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_snc_cs9857444_tbl2.x_snc_cs9857444.admin</sys_name>
         <sys_package display_value="CS9857444" source="x_snc_cs9857444">dd8092312b589b103cf4f621f291bf73</sys_package>
         <sys_policy/>
@@ -12,7 +12,7 @@
         <sys_security_acl display_value="x_snc_cs9857444_tbl2">0a33dab52b589b103cf4f621f291bff0</sys_security_acl>
         <sys_update_name>sys_security_acl_role_0a331eb52b589b103cf4f621f291bfc3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-11-02 16:51:43</sys_updated_on>
+        <sys_updated_on>2026-11-05 02:06:22</sys_updated_on>
         <sys_user_role display_value="x_snc_cs9857444.admin" name="x_snc_cs9857444.admin">298092312b589b103cf4f621f291bfa5</sys_user_role>
     </sys_security_acl_role>
 </record_update>
